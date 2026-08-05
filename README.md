@@ -15,7 +15,7 @@ An NLP-driven Machine Learning framework for predicting Adverse Drug Reaction (A
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 </p>
----
+
 
 # 📌 Repository Highlights
  
