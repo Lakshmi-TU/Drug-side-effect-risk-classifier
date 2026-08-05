@@ -7,13 +7,14 @@
 An NLP-driven Machine Learning framework for predicting Adverse Drug Reaction (ADR) risk levels using structured and unstructured pharmaceutical data
 </p>
 <p align="center">
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn)
-![NLP](https://img.shields.io/badge/NLP-TF--IDF-9146FF?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF-success?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-91%25-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
- 
+
 </p>
 # 📌 Repository Highlights
  
