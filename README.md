@@ -11,11 +11,11 @@ An NLP-driven Machine Learning framework for predicting Adverse Drug Reaction (A
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
 ![NLP](https://img.shields.io/badge/NLP-TF--IDF-success?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-91%25-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 </p>
+---
 # 📌 Repository Highlights
  
 - 🧠 NLP + Machine Learning Hybrid Framework
