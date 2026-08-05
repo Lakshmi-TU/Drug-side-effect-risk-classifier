@@ -236,7 +236,7 @@ The pipeline covers data preprocessing (missing value handling, text cleaning, T
 ## 📊 Correlation Heatmap
  
 <p align="center">
-<img src="screenshots/Heatmap.png" width="600">
+<img src="screenshots/heatmap.png" width="600">
 </p>
 Visualizes correlation between approval year, dosage, and price — confirming absence of multicollinearity among numeric features.
  
@@ -245,7 +245,7 @@ Visualizes correlation between approval year, dosage, and price — confirming a
 ## 📉 Feature Distributions
  
 <p align="center">
-<img src="screenshots/Histogram.png" width="600">
+<img src="screenshots/histogram.png" width="600">
 </p>
 Distribution of approval year, dosage, and price, showing well-varied numerical values supporting an unbiased model.
  
@@ -254,18 +254,21 @@ Distribution of approval year, dosage, and price, showing well-varied numerical 
 ## 🤖 Model Comparison
  
 <p align="center">
-<img src="screenshots/Model_Comparison.png" width="600">
+<img src="screenshots/Accuracy-matrix.png" width="600">
 </p>
 Comparison of accuracy, precision, recall, and F1-score across Random Forest, Logistic Regression, and Neural Network models.
  
 ---
  
-## 🧩 Confusion Matrix
+## 🧩 EDA
  
 <p align="center">
-<img src="screenshots/Confusion_Matrix.png" width="600">
+<img src="screenshots/Textual-Feature-EDA.png" width="600">
 </p>
-Class-level prediction breakdown across Low, Medium, and High risk categories for all three models.
+<p align="center">
+<img src="screenshots/Risk-Score-&-Risk-Category-Analysis.png" width="600">
+</p>
+
  
 ---
  
