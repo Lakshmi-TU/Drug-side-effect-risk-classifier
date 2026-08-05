@@ -260,19 +260,36 @@ Distribution of approval year, dosage, and price, showing well-varied numerical 
 </p>
 Comparison of accuracy, precision, recall, and F1-score across Random Forest, Logistic Regression, and Neural Network models.
  
----
- 
-## 🧩 EDA
- 
+## 🧩 Exploratory Data Analysis (EDA)
+
+The dataset was explored through comprehensive Exploratory Data Analysis (EDA) to understand feature distributions, identify missing values, analyze relationships among variables, and extract meaningful insights before model development.
+
+
+### 📈 Pair Plot Analysis
+
 <p align="center">
-<img src="screenshots/Textual-Feature-EDA.png" width="600">
-</p>
-<p align="center">
-<img src="screenshots/Risk-Score-&-Risk-Category-Analysis.png" width="600">
+  <img src="screenshots/pairplot.png" width="700">
 </p>
 
- 
+The pair plot visualizes pairwise relationships among important numerical features, helping identify trends, clusters, and potential correlations useful for feature engineering.
+
 ---
+
+### 💊 Textual Feature Analysis
+
+<p align="center">
+  <img src="screenshots/Textual-Feature-EDA.png" width="750">
+</p>
+
+---
+
+### ⚠️ Risk Score & Risk Category Analysis
+
+<p align="center">
+  <img src="screenshots/Risk-Score-&-Risk-Category-Analysis.png" width="750">
+</p>
+
+
  
 # ⚙ Installation
  
