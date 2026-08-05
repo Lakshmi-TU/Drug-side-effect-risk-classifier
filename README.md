@@ -405,7 +405,7 @@ prediction = model.predict(new_data)
 # ⭐ Support
  
 <div align="center">
-### If you found this project useful, consider giving it a Star
+    If you found this project useful, consider giving it a Star
  
 ### 🚀 Building AI Solutions for Real-World Problems
  
